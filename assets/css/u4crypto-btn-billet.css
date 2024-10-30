@@ -1,0 +1,8 @@
+.billetdownload{
+    width: 100%;
+    background: #ebebeb;
+    padding: 5px 5px 5px 12px;
+    min-height: 50px;
+    line-height: 50px;
+    border-left: 5px solid rgb(85, 110, 237);
+}

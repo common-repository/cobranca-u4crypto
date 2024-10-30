@@ -1,0 +1,84 @@
+# <!=Copyright (C) 2020 ThemeFusion
+msgid ""
+msgstr ""
+"Project-Id-Version: Cobrança U4crypto 7.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cobranca-u4crypto\n"
+"POT-Creation-Date: 2020-11-07 11:17:11+18:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Diletec <developers@diletec.com.br>\n"
+"Language-Team: LANGUAGE <developers@diletec.com.br>\n"
+#"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: index.php
+msgid "Allows payments with custom gateway"
+msgstr ""
+
+#: adminDisplay.php
+msgid "Billet digitable line"
+msgstr ""
+
+msgid "Billet ID"
+msgstr ""
+
+msgid "Transaction ID"
+msgstr ""
+
+msgid "Document Number"
+msgstr ""
+
+msgid "Download the billet"
+msgstr ""
+
+msgid "Please, verify if your data's API! %s Check my information - U4crypto"
+msgstr ""
+
+#: templates/credit-card/payment-instructions.php:17
+msgid "Payment successfully made using %1$s credit card in %2$s."
+msgstr ""
+
+#: templates/credit-card/payment-form.php:17
+msgid "Card Holder Name"
+msgstr ""
+
+#: templates/credit-card/payment-form.php:21
+msgid "Card Number"
+msgstr ""
+
+#: templates/credit-card/payment-form.php:26
+msgid "Expiry (MM/YY)"
+msgstr ""
+
+#: templates/credit-card/payment-form.php:27
+msgid "MM / YY"
+msgstr ""
+
+#: templates/credit-card/payment-form.php:30
+msgid "Card Code"
+msgstr ""
+
+#: templates/credit-card/payment-form.php:31
+msgid "CVC"
+msgstr ""
+
+#: templates/credit-card/payment-form.php:37
+msgid "Installments"
+msgstr ""
+
+#: templates/credit-card/payment-form.php:38
+msgid "Please, select the number of installments"
+msgstr ""
+
+#: templates/credit-card/payment-form.php:45
+msgid "(total of %s)"
+msgstr ""
+
+#: templates/credit-card/payment-form.php:45
+msgid "(interest-free)"
+msgstr ""
+
+#: templates/credit-card/payment-form.php:48
+msgid "%1$dx of %2$s %3$s"
+msgstr ""

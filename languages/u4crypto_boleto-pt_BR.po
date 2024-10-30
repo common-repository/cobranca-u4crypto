@@ -1,0 +1,108 @@
+# <!=Copyright (C) 2020 ThemeFusion
+msgid ""
+msgstr ""
+"Project-Id-Version: Cobrança U4crypto 7.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cobranca-u4crypto\n"
+"POT-Creation-Date: 2020-11-07 11:17:11+18:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-02-04 13:57-0300\n"
+"Language-Team: LANGUAGE <developers@diletec.com.br>\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# "X-Generator: grunt-wp-i18n 1.0.3\n"
+#: index.php
+msgid "Allows payments with custom gateway"
+msgstr "Permite pagamentos com gateway personalizado"
+
+#: adminDisplay.php
+msgid "Billet digitable line"
+msgstr "Linha digitável do boleto"
+
+msgid "Billet ID"
+msgstr "ID do Boleto"
+
+msgid "Transaction ID"
+msgstr "ID da transação"
+
+msgid "Document Number"
+msgstr "Número do Documento"
+
+msgid "Download the billet"
+msgstr "Baixe o boleto"
+
+msgid "Please, verify if your data's API! %s Check my information - U4crypto"
+msgstr "Por favor, verifique se seus dados de API! %s Verificar minhas informações - U4crypto"
+
+#: templates/credit-card/payment-instructions.php:17
+msgid "Payment successfully made using %1$s credit card in %2$s."
+msgstr "Pagamento efetuado com sucesso usando cartão de crédito %1$s em %2$s."
+
+#: templates/credit-card/payment-form.php:17
+msgid "Card Holder Name"
+msgstr "Nome no Cartão"
+
+#: templates/credit-card/payment-form.php:21
+msgid "Card Number"
+msgstr "Número do cartão"
+
+#: templates/credit-card/payment-form.php:26
+msgid "Expiry (MM/YY)"
+msgstr "Vencimento (MM/YY)"
+
+#: templates/credit-card/payment-form.php:27
+msgid "MM / YY"
+msgstr "MM / YY"
+
+#: templates/credit-card/payment-form.php:30
+msgid "Card Code"
+msgstr "Código do Cartão"
+
+#: templates/credit-card/payment-form.php:31
+msgid "CVC"
+msgstr "CVC"
+
+#: templates/credit-card/payment-form.php:37
+msgid "Installments"
+msgstr "Parcelas"
+
+#: templates/credit-card/payment-form.php:38
+msgid "Please, select the number of installments"
+msgstr "Por favor, selecione a quantidade de parcelas"
+
+#: templates/credit-card/payment-form.php:45
+msgid "(total of %s)"
+msgstr "(total de %s)"
+
+#: templates/credit-card/payment-form.php:45
+msgid "(interest-free)"
+msgstr "sem juros"
+
+#: templates/credit-card/payment-form.php:48
+msgid "%1$dx of %2$s %3$s"
+msgstr "%1$dx de %2$s %3$s"
+
+
+#: gateways/qrcode.php
+msgid "Title"
+msgstr "Título"
+
+#: gateways/qrcode.php
+msgid "Order Status"
+msgstr "Status da venda"
+
+#: gateways/qrcode.php
+msgid "Description"
+msgstr "Descrições"
+
+#: gateways/qrcode.php
+msgid "Instructions"
+msgstr "Instruções"
+
+#: gateways/qrcode.php
+msgid "Sales Security"
+msgstr "Segurança de vendas"
